@@ -7,7 +7,7 @@ While fulfilling the final project assignment for the class, it is a work in pro
 
 
 ## Components
-(Final Project)[https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow.ipynb]
-(First rough draft of code)[https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow_Rough1.ipynb]
-(Second rough draft of code)[https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow_Rough2.ipynb]
-(Data)[https://github.com/Garrettmorrow/INSH_6406/tree/master/Data]
+[Final Project](https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow.ipynb)
+[First rough draft of code](https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow_Rough1.ipynb)
+[Second rough draft of code](https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow_Rough2.ipynb)
+[Data](https://github.com/Garrettmorrow/INSH_6406/tree/master/Data)
