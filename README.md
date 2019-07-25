@@ -10,4 +10,6 @@ While fulfilling the final project assignment for the class, it is a work in pro
 [Final Project](https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow.ipynb)<br>
 [First rough draft of code](https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow_Rough1.ipynb)<br>
 [Second rough draft of code](https://github.com/Garrettmorrow/INSH_6406/blob/master/INSH_6406_Final_Project_Morrow_Rough2.ipynb)<br>
-[Data](https://github.com/Garrettmorrow/INSH_6406/tree/master/Data)
+[Data](https://github.com/Garrettmorrow/INSH_6406/tree/master/Data)<br>
+[Image of California 2017-2018 Legislature Co-Sponsorship Network](https://github.com/Garrettmorrow/INSH_6406/blob/master/CA1718.jpg)<br>
+[Image of California 2015-2016 Legislature Co-Sponsorship Network](https://github.com/Garrettmorrow/INSH_6406/blob/master/CA1516.jpg)<br>
